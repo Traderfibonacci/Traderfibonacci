@@ -5,6 +5,7 @@ comentar, compartilhar e testar meus projetos.
 
 ### Meus Projetos 👋
 
+https://github.com/Traderfibonacci/seriesefilmes
 
 https://github.com/Traderfibonacci/Projeto-Java-com-Spring-Boot
 
