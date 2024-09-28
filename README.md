@@ -1,9 +1,9 @@
 😄 Seja bem vindo ao meu perfil de desenvolvedor
 
-Estou começando os trabalhos nessa rede, sinta-se livre para 
+Estes são alguns  dos meus trabalhos nessa rede, sinta-se livre para 
 comentar, compartilhar e testar meus projetos.
 
-### Alguns dos Meus Projetos 👋
+### Meus Projetos 👋
 
 https://github.com/Traderfibonacci/pedidos
 
